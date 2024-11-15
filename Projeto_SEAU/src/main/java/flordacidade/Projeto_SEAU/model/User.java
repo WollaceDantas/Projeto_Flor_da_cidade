@@ -1,6 +1,6 @@
 // src/main/java/flordacidade/Treinamento_Wollace/model/User.java
 
-package flordacidade.treinamento_wollace.model;
+package flordacidade.Projeto_SEAU.model;
 
 import jakarta.persistence.*;
 

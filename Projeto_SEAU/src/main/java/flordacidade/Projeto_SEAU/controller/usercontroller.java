@@ -1,9 +1,9 @@
 // src/main/java/flordacidade/Treinamento_Wollace/controller/UserController.java
 
-package flordacidade.treinamento_wollace.controller;
+package flordacidade.Projeto_SEAU.controller;
 
-import flordacidade.treinamento_wollace.model.User;
-import flordacidade.treinamento_wollace.service.UserService;
+import flordacidade.Projeto_SEAU.model.User;
+import flordacidade.Projeto_SEAU.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

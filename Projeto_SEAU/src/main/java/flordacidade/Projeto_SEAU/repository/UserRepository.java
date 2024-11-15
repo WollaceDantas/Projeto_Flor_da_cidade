@@ -1,8 +1,8 @@
 // src/main/java/flordacidade/Treinamento_Wollace/repository/UserRepository.java
 
-package flordacidade.treinamento_wollace.repository;
+package flordacidade.Projeto_SEAU.repository;
 
-import flordacidade.treinamento_wollace.model.User;
+import flordacidade.Projeto_SEAU.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>flordacidade</groupId>
-	<artifactId>treinamento_wollace</artifactId>
+	<artifactId>Projeto_SEAU</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Treinamento_Wollace</name>
 	<description>Treinamento de spring boot integrado a um banco de dados</description>

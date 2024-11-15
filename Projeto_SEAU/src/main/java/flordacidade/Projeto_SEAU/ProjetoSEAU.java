@@ -1,13 +1,13 @@
-package flordacidade.treinamento_wollace;
+package flordacidade.Projeto_SEAU;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TreinamentoWollaceApplication {
+public class ProjetoSEAU {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TreinamentoWollaceApplication.class, args);
+		SpringApplication.run(ProjetoSEAU.class, args);
 
 	}
 

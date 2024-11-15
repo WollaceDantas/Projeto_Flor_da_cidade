@@ -1,6 +1,6 @@
 // src/main/java/flordacidade/Treinamento_Wollace/config/WebConfig.java
 
-package flordacidade.treinamento_wollace.config;
+package flordacidade.Projeto_SEAU.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

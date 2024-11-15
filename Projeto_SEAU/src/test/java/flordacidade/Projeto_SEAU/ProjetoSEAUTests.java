@@ -1,11 +1,11 @@
-package flordacidade.treinamento_wollace;
+package flordacidade.Projeto_SEAU;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class
-TreinamentoWollaceApplicationTests {
+ProjetoSEAUTests {
 
 	@Test
 	void contextLoads() {

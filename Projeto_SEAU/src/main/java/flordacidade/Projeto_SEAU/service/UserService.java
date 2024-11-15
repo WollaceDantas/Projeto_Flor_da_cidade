@@ -1,9 +1,9 @@
 // src/main/java/flordacidade/Treinamento_Wollace/service/UserService.java
 
-package flordacidade.treinamento_wollace.service;
+package flordacidade.Projeto_SEAU.service;
 
-import flordacidade.treinamento_wollace.model.User;
-import flordacidade.treinamento_wollace.repository.UserRepository;
+import flordacidade.Projeto_SEAU.model.User;
+import flordacidade.Projeto_SEAU.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
