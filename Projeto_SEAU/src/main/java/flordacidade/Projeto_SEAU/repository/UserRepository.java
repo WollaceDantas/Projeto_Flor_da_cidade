@@ -1,4 +1,4 @@
-// src/main/java/flordacidade/Treinamento_Wollace/repository/UserRepository.java
+// src/main/java/flordacidade/Projeto_SEAU/repository/UserRepository.java
 
 package flordacidade.Projeto_SEAU.repository;
 

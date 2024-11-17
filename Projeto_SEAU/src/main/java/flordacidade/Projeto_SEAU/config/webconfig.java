@@ -1,4 +1,4 @@
-// src/main/java/flordacidade/Treinamento_Wollace/config/WebConfig.java
+// src/main/java/flordacidade/Projeto_SEAU/config/WebConfig.java
 
 package flordacidade.Projeto_SEAU.config;
 

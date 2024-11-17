@@ -1,4 +1,4 @@
-// src/main/java/flordacidade/Treinamento_Wollace/model/User.java
+// src/main/java/flordacidade/Projeto_SEAU/model/User.java
 
 package flordacidade.Projeto_SEAU.model;
 
